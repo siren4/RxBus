@@ -15,4 +15,4 @@
   }
   ```
 ## 文档
-#### https://github.com/siren4/RxBus.wiki.git
+#### https://github.com/siren4/RxBus/wiki
