@@ -11,7 +11,7 @@
 #### Step 2. Add the dependency
   ```
   dependencies {
-       implementation 'com.github.siren4:RxBus:1.0.0'
+       implementation 'com.github.siren4:RxBus:2.0.0'
   }
   ```
 ## 文档
